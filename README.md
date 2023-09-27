@@ -3,6 +3,7 @@
   <a href="https://lhammer.cn/You-need-to-know-css/#/">
     <img src="./static/logo.png" width="152">
   </a>
+  <p align="center"> i'm added my name</p>
   <h3 align="center">You-need-to-know-css</h3>
   <p align="center">
     <a href="https://gitter.im/You-need-to-know-css/Lobby"> <img src="https://badges.gitter.im/You-need-to-know-css/Lobby.svg"></a>
